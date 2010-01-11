@@ -1,0 +1,47 @@
+################################################################################################################
+################################################ Money for Blood Development ###########################################
+#################################################### README File ###############################################
+################################################################################################################
+
+
+What is Money for Blood?
+================================================================================================================
+================================================================================================================
+
+Money for Blood is a browser-based Massively Multiplayer Online Role Playing Game which is currently in development powered by the 
+CodeIgniter Framework by EllisLabs. The Dwardle application is coded by a 21 year old web developer named Paul 
+Chater whos website(s) can be found at:
+
+http://www.PaulChater.co.uk
+http://www.Codr.eu
+http://www.Dwardle.com
+http://www.Dwardle.com/blog
+
+
+When will Money For Blood be finished and will it be free?
+================================================================================================================
+================================================================================================================
+
+I currently have no set date on when MFB will be finished, although i'm planning on pushing out a Private 
+Alpha around Mid to Late November 2010
+
+Yes, of course MFB will be free. The only thing that we would be charging for may be donations, but that will 
+not be a required commitment. Small donations will be going into a personal fund which pays for the server to run 
+MFB. 
+
+
+
+What is the MFB Policy?
+================================================================================================================
+================================================================================================================
+
+The MFB Code is not allowed to be used on LIVE servers although it can be downloaded and run on a local host 
+to learn from. MFB isn't currently an Open Source Application, although admittedly that is a bit hypocritical 
+considering that it is on a Public Git Repository (this will be changed Friday 31st July 2009.)
+
+If you are planning to run MFB on a local host to learn from then you must contact Paul Chater immediately 
+via either msn messenger, email or by a direct message on twitter. Contact details are below.
+
+MSN Address: me[at]paulchater.co.uk
+E-Mail Address: webmaster[at]paulchater.co.uk
+Twitter: @PaulChater
