@@ -1,0 +1,123 @@
+*, html { padding: 0; margin: 0; }
+
+body {
+	background-color: #000;
+	font: normal 12pt "Trebuchet MS", Helvetica, sans-serif;
+	color: #fff;
+}
+
+#wrapper {
+	margin: 25px auto;
+	background-color: #222;
+	border: 1px solid #393939;
+	width: 940px;
+	padding: 10px;
+}
+
+fieldset { 
+	border: 1px solid #393939;
+	background-color: #121212;
+	padding: 10px;
+}
+
+h2 { margin: 10px 0; }
+legend { font-weight: bold; }
+
+#logo {
+	width: 320px;
+}
+
+#logo h1 { 
+	margin-bottom: 10px;
+	color: #ff0;
+	font-style: italic;
+	letter-spacing: -0.1em;
+	text-shadow: 1px 1px 10px #000;
+	
+}
+
+#nav {
+	background: #121212;
+	width: 920px;
+	border: 1px solid #393939;
+	padding: 10px;
+}
+
+#nav a:link, #nav a:active, #nav a:visited {
+	color: #ff0;
+	text-decoration: none;
+}
+
+#nav a:hover {
+	text-decoration: underline;
+}
+
+label { width: 150px; float: left; }
+input[type=text], input[type=password] { 
+	border: 1px solid #292929;
+	padding: 5px 10px;
+	margin-bottom: 10px;
+	background-color: #000;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	color: #fff;
+}
+input[type=text]:hover, input[type=password]:hover { 
+	border: 1px solid #393939;
+	padding: 5px 10px;
+	margin-bottom: 10px;
+	background-color: #222;
+	color: #fff;
+}
+input[type=text]:focus, input[type=password]:focus { 
+	border: 1px solid #292929;
+	padding: 5px 10px;
+	margin-bottom: 10px;
+	background-color: #090909;
+	color: #fff;
+}
+
+fieldset input[type=submit], fieldset a:link, fieldset a:active, fieldset a:visited {
+	border: 1px solid #292929;
+	background-color: #090909;
+	color: #fff;
+	padding: 5px 10px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	margin-right: 5px;
+	text-decoration: none;
+	font-size: 10pt;
+	cursor: pointer;
+}
+fieldset input[type=submit]:hover, fieldset a:hover {
+	border: 1px solid #393939;
+	background-color: #222;
+	color: #fff;
+	padding: 5px 10px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	margin-right: 5px;
+	text-decoration: none;
+	font-size: 10pt;
+	cursor: pointer;
+}
+
+#footer {
+	background: #121212;
+	width: 938px;
+	border: 1px solid #393939;
+	padding: 10px 0;
+	margin-top: 10px;
+	color: #444;
+	text-align: center;
+	font-size: 10pt;
+}
+
+#footer a:link, #footer a:active, #footer a:visited {
+	color: #ff0;
+	text-decoration: none;
+}
+
+#footer a:hover {
+	text-decoration: underline;
+}
